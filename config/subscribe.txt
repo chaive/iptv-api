@@ -2,7 +2,19 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+http://肥猫.net/tv
 
+http://www.饭太硬.cc/tv
+
+http://我不是.摸鱼儿.top
+
+https://cyao2q.github.io/files/m.json
+
+https://cyao2q.github.io/files/xs.json
+
+https://cyao2q.github.io/files/ok.json
+
+https://9877.kstore.space/ONE/one.json
 
 
 
